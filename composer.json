@@ -1,5 +1,5 @@
 {
-    "name": "barryvdh/laravel-omnipay",
+    "name": "komparu/laravel-omnipay",
     "description": "Omnipay Service Provider for Laravel",
     "keywords": ["laravel", "omnipay"],
     "license": "MIT",
